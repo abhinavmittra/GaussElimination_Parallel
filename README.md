@@ -1,4 +1,4 @@
-Gauss Elimination By: Abhinav Mittra (44),Karthik Nayak(45),Tejas Jain(58)
+Gauss Elimination By: Abhinav Mittra
 MPI: Calculates the determinant using Gauss Elimination method
 CUDA: Solves n equations of n variables in parallel
 
